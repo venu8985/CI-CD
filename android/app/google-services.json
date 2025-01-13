@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88726931585",
+    "project_id": "facedetection-70ba8",
+    "storage_bucket": "facedetection-70ba8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88726931585:android:dc3641ab6e2fdae70ce580",
+        "android_client_info": {
+          "package_name": "com.face.detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw45c94RDf7aCuSnx7vpw__XbYrVz7VWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
